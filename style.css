@@ -3,3 +3,12 @@
 	padding:0;
 	box-sizing: border-box;
 }
+/*this is a comment
+ */
+
+section{
+	padding: 10px;
+	margin: 10px;
+	background: #f4f4f4;
+}
+
